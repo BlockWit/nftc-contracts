@@ -40,7 +40,7 @@ Unsold pictures from Stage 7 will be randomly distributed to the sale participan
 * _Purpose_: Main token confirming the holder's ownership rights
 
 ### NCT
-* _Standart_: [ERC20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
+* _Standart_: [BEP20](https://github.com/binance-chain/BEPs/blob/master/BEP20.md) based on ERC20(https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 * _Name_: Name Changing Token
 * _Ticker_: NCT
 * _Decimals_: 18
