@@ -30,6 +30,8 @@ Unsold pictures from Stage 7 will be randomly distributed to the sale participan
 
 ## Smart contracts
 
+Contracts [BEP](https://github.com/binance-chain/BEPs) checks needs! 
+
 ### NFTC
 * _Standart_: [ERC721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
 * _Name_: NFT Cars
